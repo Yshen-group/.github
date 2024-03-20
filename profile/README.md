@@ -8,6 +8,11 @@
 2. 请保留数据样本以保证它人可以运行代码，完整的数据请勿上传至 git，请存储于 NAS 路径为 STEP-TeamProject”
 
 ### 👩‍💻 How to get start
+
+<details>
+
+<summary> 从创建代码到PR 流程 </summary>
+
 1️⃣ 首先，确保你的电脑已经安装好 git 并配置好 github 仓库。
 
 2️⃣ 然后克隆对应仓库到您本地机器上
@@ -19,9 +24,6 @@ git clone https://github.com/chenxia31/Group_shen.git
 git pull origin main
 ```
 4️⃣ 为了确保项目的组织性和可维护性，请您遵循以下步骤创建和使用分支：
-<details>
-
-<summary> 从创建代码到PR 流程 </summary>
 
 1. 创建分支：基于新建项目或者开发的功能或版本
    ```
