@@ -52,8 +52,3 @@ git pull origin main
 希望深入学习 Git：[Pro git book](https://git-scm.com/book/zh/v2)
 
 跟着动画学习 Git：[Welcome to Learn Git Branching](https://learngitbranching.js.org/)
-
-### 🍿 Fun facts
-[Github 组织说明](https://docs.github.com/zh/organizations)
-
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
