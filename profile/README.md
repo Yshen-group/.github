@@ -35,9 +35,13 @@ git pull origin main
 4. 创建 PR：在 github 上为你的分支创建一个 Pull request，请求团队成员进行代码审查，一旦审查通过并且没有冲突，可以将你的分支合并到对应的项目分支
 
 ### 🧐 Useful documents
+
 了解 Git 原理：[Git 原理入门](https://www.ruanyifeng.com/blog/2018/10/git-internals.html)
+
 常用 Git 命令：[Git 常用指令](https://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+
 希望深入学习 Git：[Pro git book](https://git-scm.com/book/zh/v2)
+
 跟着动画学习 Git：[Welcome to Learn Git Branching](https://learngitbranching.js.org/)
 
 ### 🍿 Fun facts
