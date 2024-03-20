@@ -8,24 +8,24 @@
 2. 请保留数据样本以保证它人可以运行代码，完整的数据请勿上传至 git，请存储于 NAS 路径为 STEP-TeamProject”
 
 ### 👩‍💻 How to get start
-首先，确保你的电脑已经安装好 git 并配置好 github 仓库。
+1️⃣ 首先，确保你的电脑已经安装好 git 并配置好 github 仓库。
 
-然后克隆对应仓库到您本地机器上
+2️⃣ 然后克隆对应仓库到您本地机器上
 ```
 git clone https://github.com/chenxia31/Group_shen.git
 ```
-在进行任何更改之前，请始终确保你的本地仓库是最新的
+3️⃣ 在进行任何更改之前，请始终确保你的本地仓库是最新的
 ```
 git pull origin main
 ```
-
+4️⃣ 为了确保项目的组织性和可维护性，请您遵循以下步骤创建和使用分支：
 <details>
 
-<summary>为了确保项目的组织性和可维护性，请您遵循以下步骤创建和使用分支：</summary>
+<summary> 从创建代码到PR 流程 </summary>
 
 1. 创建分支：基于新建项目或者开发的功能或版本
    ```
-   git checkout -b <branch-name> # 请使用具有描述性的分支名称
+   git checkout -b <branch-name> # 请使用具有描述性的分支名称，如 add_timetable_sim#02
    ```
 2. 提交更改：在你的分支上进行更改之后，使用一下命令来添加更改到暂存区并提交它们
    ```
