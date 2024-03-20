@@ -34,5 +34,5 @@ git pull origin main
 
 
 ### 🍿 Fun facts
-(Github 组织说明)[https://docs.github.com/zh/organizations]
+[Github 组织说明](https://docs.github.com/zh/organizations)
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
