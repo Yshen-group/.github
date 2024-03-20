@@ -1,7 +1,7 @@
 ## Hi！👋 沈组小分队的小伙伴们 
 
 ### 🙋‍♀️ A short introduction - what is your organization all about?
-本仓库是为了传承沈组代码而创建的，旨在利用 Git 版本管理系统来促进组内团队协作和代码管理，同时建立 Github Private Repo 来保证 online 办公时的远程代码获取。在使用的过程中请您注意一下要点：
+本仓库是为了传承**沈组代码**而创建的，旨在利用 Git 版本管理系统来**促进组内团队协作和代码管理**，同时建立 Github Private Repo 来保证** online 办公时的远程代码获取**。在使用的过程中请您注意一下要点：
 1. 鼓励使用不同 repo 来管理不同的项目，建议命名为“proj_$name”，如 “proj_jdbus”，同时建议复制 template repo。
 2. 请保留数据样本以保证它人可以运行代码，完整的数据请勿上传至 git，请存储于 NAS 路径为 STEP-TeamProject”
 
