@@ -18,7 +18,11 @@ git clone https://github.com/chenxia31/Group_shen.git
 ```
 git pull origin main
 ```
-为了确保项目的组织性和可维护性，请您遵循以下步骤创建和使用分支：
+
+<details>
+
+<summary>为了确保项目的组织性和可维护性，请您遵循以下步骤创建和使用分支：</summary>
+
 1. 创建分支：基于新建项目或者开发的功能或版本
    ```
    git checkout -b <branch-name> # 请使用具有描述性的分支名称
@@ -33,6 +37,9 @@ git pull origin main
    git push origin <branch-name>
    ```
 4. 创建 PR：在 github 上为你的分支创建一个 Pull request，请求团队成员进行代码审查，一旦审查通过并且没有冲突，可以将你的分支合并到对应的项目分支
+
+</details>
+
 
 ### 🧐 Useful documents
 
