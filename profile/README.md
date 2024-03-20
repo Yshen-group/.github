@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi！👋 沈组小分队的小伙伴们 
 
 ### 🙋‍♀️ A short introduction - what is your organization all about?
 本仓库是为了传承沈组代码而创建的，旨在利用 Git 版本管理系统来促进组内团队协作和代码管理，同时建立 Github Private Repo 来保证 online 办公时的远程代码获取。在使用的过程中请您注意一下要点：
