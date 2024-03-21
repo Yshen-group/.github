@@ -2,16 +2,17 @@
 
 ### 🙋‍♀️ A short introduction
 
-本仓库是为了传承**沈组代码**而创建的，旨在利用 Git 版本管理系统来**促进组内团队协作和代码管理**，同时建立 Github Private Repo 来保证 **online 办公代码获取**。在使用的过程中请您注意一下要点：
+本仓库是为了传承**沈组代码**而创建的，旨在利用 Git 版本管理系统来**促进组内团队协作和代码管理**，同时建立 Github Private Repo 来保证 **online 办公时代码获取**能力。在使用的过程中请您注意一下要点：
 
 1. 鼓励使用不同 repo 来管理不同的项目，建议命名为“proj_$name”，如 “proj_jdbus”，同时建议复制 template repo。
-2. 请保留数据样本以保证它人可以运行代码，完整的数据请勿上传至 git，请存储于 NAS 路径为 STEP-TeamProject
+   
+2. 请保留数据样本以保证它人可以运行代码，完整的数据请勿上传至 git，请存储于 NAS 路径为 STEP-TeamProject”
 
 ### 👩‍💻 How to get start
 
 <details>
 
-<summary> 从创建代码到PR 流程 </summary>
+<summary> 从创建代码到PR 流程 (点击左边图标可展开) </summary>
 
 1️⃣ 首先，确保你的电脑已经安装好 git 并配置好 github 仓库。
 
@@ -23,7 +24,7 @@ git clone https://github.com/chenxia31/Group_shen.git
 ```
 git pull origin main
 ```
-4️⃣ 为了确保项目的组织性和可维护性，请您遵循以下步骤创建和使用分支：
+4️⃣ 为了确保项目的组织性和可维护性，请您遵循以下步骤新建分支再修改代码并 push：
 
 1. 创建分支：基于新建项目或者开发的功能或版本
    ```
